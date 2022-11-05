@@ -12,6 +12,13 @@ justify-content:center
 
 }
 
+.yo{
+
+display:flex;
+justify-content:center
+
+
+}
 
 
 
@@ -20,7 +27,7 @@ background-color:#D6A2E8;
 }
 h1{
 color:#F70D1A;
-margin-left:537;
+
 }
 
 .hello{
